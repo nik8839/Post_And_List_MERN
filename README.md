@@ -1,4 +1,4 @@
-# Posts Microservices  <!-- Project Title -->
+#  Microservices in Node  <!-- Project Title -->
 
 ## Overview  <!-- Project Description -->
 This project consists of two microservices that work together to create, list, and manage posts with comments. The microservices communicate with each other to handle post creation, retrieval, and comment addition.
